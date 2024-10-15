@@ -24,11 +24,11 @@ This application is a command-line tool that combines multiple functionalities i
 
 ### Running the App:
 
-1. **Download the Script**: Make sure to download the `combined_app.py` script.
-2. **Open Terminal**: Navigate to the directory where `combined_app.py` is located.
+1. **Download the Script**: Make sure to download the `Utility_app.py` script.
+2. **Open Terminal**: Navigate to the directory where `Utility_app.py` is located.
 3. **Run the Application**:
    ```bash
-   python combined_app.py
+   python Utility_app.py
    ```
 
 ### Menu Options:
@@ -63,13 +63,13 @@ Once you run the script, you will be presented with the following menu options:
 
 1. **Checking System Health**:
    ```bash
-   python combined_app.py
+   python Utility_app.py
    # Select option 1 to check disk and CPU usage
    ```
 
 2. **Listing Available Networks**:
    ```bash
-   python combined_app.py
+   python Utility_app.py
    # Select option 2 to view available Wi-Fi networks
    ```
 
